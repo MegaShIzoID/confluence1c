@@ -1,0 +1,93 @@
+
+/* 1C:Enterprise default coloring base */
+
+	/* base */
+	.syntaxhighlighter.sh-confluence .lang1c {
+		background-color: white !important;
+		font-weight: normal !important;
+		font-family: ConfluenceInstalledFont,monospace;
+	}
+
+	/* Confluence theme fixup */
+	.syntaxhighlighter.sh-confluence.lang1c .code, .syntaxhighlighter.sh-confluence.lang1c .line {
+		background-color: white !important;
+		font-weight: normal !important;
+		font-family: ConfluenceInstalledFont,monospace;
+	}
+	.syntaxhighlighter.sh-confluence.lang1c .codeHeader, .syntaxhighlighter.lang1c .codeContent, .syntaxhighlighter.lang1c .gutter {
+		background-color: #f5f5f5 !important;
+		font-weight: normal !important;
+		font-family: ConfluenceInstalledFont,monospace;
+	}
+	.syntaxhighlighter.sh-confluence.lang1c .gutter {
+		color: #707070 !important;
+		font-weight: normal !important;
+		font-family: ConfluenceInstalledFont,monospace;
+	}
+
+/* 1C:Enterprise IDE default coloring */
+
+	/* preprocessor */
+	.syntaxhighlighter.sh-confluence .lang1c.preprocessor {
+		color: #963200 !important;
+		font-weight: normal !important;
+		font-family: ConfluenceInstalledFont,monospace;
+	}
+
+	/* comments */
+	.syntaxhighlighter.sh-confluence .lang1c.comments {
+		color: #008000 !important;
+		font-weight: normal !important;
+		font-family: ConfluenceInstalledFont,monospace;
+	}
+
+	/* strings constants */
+	.syntaxhighlighter.sh-confluence .lang1c.string {
+		color: #000000 !important;
+		font-weight: normal !important;
+		font-family: ConfluenceInstalledFont,monospace;
+	}
+
+	/* date constants */
+	.syntaxhighlighter.sh-confluence .lang1c.color1 {
+		color: #000000 !important;
+		font-weight: normal !important;
+		font-family: ConfluenceInstalledFont,monospace;
+	}
+
+	/* number constants */
+	.syntaxhighlighter.sh-confluence .lang1c.color2 {
+		color: #000000 !important;
+		font-weight: normal !important;
+		font-family: ConfluenceInstalledFont,monospace;
+	}
+
+	/* keywords */
+	.syntaxhighlighter.sh-confluence .lang1c.keyword {
+		color: #ff0000 !important;
+		font-weight: normal !important;
+		font-family: ConfluenceInstalledFont,monospace;
+	}
+
+	/* operators */
+	.syntaxhighlighter.sh-confluence .lang1c.color3 {
+		color: #ff0000 !important;
+		font-weight: normal !important;
+		font-family: ConfluenceInstalledFont,monospace;
+	}
+
+	/* identifiers */
+	.syntaxhighlighter.sh-confluence .lang1c.variable {
+		color: #0000ff !important;
+		font-weight: normal !important;
+		font-family: ConfluenceInstalledFont,monospace;
+	}
+
+	/* others */
+	.syntaxhighlighter.sh-confluence .lang1c.plain {
+		color: #000000 !important;
+		font-weight: normal !important;
+		font-family: ConfluenceInstalledFont,monospace;
+	}
+
+/* end 1C:Enterprise coloring scheme */
